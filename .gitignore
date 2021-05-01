@@ -37,4 +37,4 @@ out/
 .vscode/
 
 ### Remote DB connect info ###
-application.properties
+*.properties
