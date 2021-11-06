@@ -11,7 +11,7 @@ import org.springframework.stereotype.Service;
 @Service
 @RequiredArgsConstructor
 @Slf4j
-public class MemberServiceImplV1 implements MemberService{
+public class MemberServiceImplV1 implements MemberService {
 
     private final MemberRepository memberRepository;
 
