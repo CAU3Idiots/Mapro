@@ -38,3 +38,4 @@ out/
 
 ### Remote DB connect info ###
 *.properties
+Mapro_reactnative_client/package-lock.json
